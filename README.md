@@ -14,5 +14,32 @@
  <source media="(prefers-color-scheme: light)" srcset=""C:\Users\kobbr\Desktop\UK DATA\pass.jpeg"">
  <img alt="YOUR-ALT-TEXT" src=""C:\Users\kobbr\Desktop\UK DATA\pass.jpeg"">
 </picture>
+## About me
+Hi, Here is an example of a table for programming languages
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1|Pythton        |
+|     2|Javascript     |
+|     3|C ++           |
 
 
+## COLLAPSE SECTION
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+
+## Adding a quote
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+## Adding a comment
+<!-- TO DO: add more details about me later -->
