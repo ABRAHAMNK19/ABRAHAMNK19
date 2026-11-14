@@ -8,3 +8,11 @@
 - 📫 How to reach me: ... nkrumahabraham213@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I can survive on tea and still be productive
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\kobbr\Desktop\UK DATA\pass.jpeg"">
+ <source media="(prefers-color-scheme: light)" srcset=""C:\Users\kobbr\Desktop\UK DATA\pass.jpeg"">
+ <img alt="YOUR-ALT-TEXT" src=""C:\Users\kobbr\Desktop\UK DATA\pass.jpeg"">
+</picture>
+
+
